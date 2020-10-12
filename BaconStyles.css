@@ -1,0 +1,32 @@
+﻿body {
+}
+
+h1{
+    font-size: 100px;
+}
+
+.Bacon-img{
+    background-color: #ff0000;
+}
+
+.Brocoli-img{
+    background-color: green;
+    width: 160px;
+    height: 160px;
+}
+
+.Bacon{
+    color: red;
+}
+
+.Brocoli{
+    color: green;
+}
+
+.circular{
+    border-radius:100%;
+}
+
+#title {
+    color:blue;
+}
